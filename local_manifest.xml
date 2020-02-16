@@ -7,6 +7,6 @@
   <project name="xiaomi-sdm660/android_vendor_xiaomi_sdm660-common" path="vendor/xiaomi/sdm660-common" remote="github" revision="lineage-17.0" />
   <project name="xiaomi-sdm660/android_vendor_xiaomi_MiuiCamera" path="vendor/xiaomi/MiuiCamera" remote="github" revision="lineage-17.0" />
   <project name="azrim/android_kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="github" revision="kernel.lnx.4.4.r38-rel-wifi" />
-  <project name="azrim/device_twrp_jasmine_sprout" path="device/twrp/jasmine_sprout" remote="github" revision="master" />
+  <project name="AICP/device_twrp/" path="device/twrp/jasmine_sprout" remote="github" revision="jasmine_sprout />
   
 </manifest>
