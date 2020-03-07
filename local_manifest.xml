@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="xiaomi-sdm660/android_device_xiaomi_jasmine_sprout" path="device/xiaomi/jasmine_sprout" remote="github" revision="cr-8.0" />
-  <project name="xiaomi-sdm660/android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="github" revision="cr-8.0" />
-  <project name="xiaomi-sdm660/android_vendor_xiaomi_sdm660-common" path="vendor/xiaomi/sdm660-common" remote="github" revision="eas" />
-  <project name="xiaomi-sdm660/android_vendor_xiaomi_wayne" path="vendor/xiaomi/wayne" remote="github" revision="lineage-17.0" />
+  <project name="azrim/device_xiaomi_jasmine_sprout" path="device/xiaomi/jasmine_sprout" remote="github" revision="q10.0" />
+  <project name="azrim/device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="github" revision="q10.0" />
+  <project name="AICP/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="q10.0" />
   <project name="xiaomi-sdm660/android_vendor_xiaomi_MiuiCamera" path="vendor/xiaomi/MiuiCamera" remote="github" revision="lineage-17.0" />
-  <project name="SiddharthBharadwaj/android_kernel_xiaomi_jasmine_sprout" path="kernel/xiaomi/sdm660" remote="github" revision="eas-v2" />
+  <project name="azrim/kernel_xiaomi_sdm660" path="kernel/xiaomi/sdm660" remote="github" revision="silont" />
   <project name="AICP/device_twrp/" path="device/twrp/jasmine_sprout" remote="github" revision="jasmine_sprout" />
 </manifest>
