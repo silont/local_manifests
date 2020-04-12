@@ -2,7 +2,7 @@
 <manifest>
   <project name="PixelExperience-Devices/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="ten" />
   <project name="Xiaomi-trinket-dev/android_device_xiaomi_sm6125-common" path="device/xiaomi/sm6125-common" remote="github" revision="lineage-17.1" />
-  <project name="Xiaomi-trinket-dev/vendor_xiaomi_sm6125-common" path="vendor/xiaomi/sm6125-common" remote="github" revision="qlineage-17.1" />
+  <project name="Xiaomi-trinket-dev/vendor_xiaomi_sm6125-common" path="vendor/xiaomi/sm6125-common" remote="github" revision="lineage-17.1" />
   <project name="PixelExperience-Devices/vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="ten" />
   <project name="PixelExperience-Devices/kernel_xiaomi_ginkgo" path="kernel/xiaomi/sm6125" remote="github" revision="ten" />
 </manifest>
