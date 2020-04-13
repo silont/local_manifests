@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TheWeaver786/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="10" />
-  <project name="Xiaomi-trinket-dev/vendor_xiaomi_sm6125-common" path="vendor/xiaomi/sm6125-common" remote="github" revision="lineage-17.1" />
+  <project name="Aoihara/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="q10x" />
   <project name="TheWeaver786/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="Q" />
-  <project name="chips-project/msm-4.14.git" path="kernel/xiaomi/sm6125" remote="github" revision="ten" />
+  <project name="chips-project/msm-4.14.git" path="kernel/xiaomi/ginkgo" remote="github" revision="ten" />
 </manifest>
