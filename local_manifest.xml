@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Billaids/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="10" />
+  <project name="azrim/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="10" />
   <project name="Billaids/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="Q" />
-  <project name="Genom-Project/android_kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="sdm-ten-sdx" />
+  <project name="azrim/android_kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="ten" />
 </manifest>
