@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="azrim/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="10" />
-  <project name="Billaids/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="Q" />
-  <project name="azrim/android_kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="ten" />
+  <project name="azrim/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="pa-quartz" />
+  <project name="trinket-devs/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="quartz-2" />
+  <project name="azrim/android_kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="pa-quartz" />
 </manifest>
