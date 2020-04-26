@@ -2,6 +2,6 @@
 <manifest>
   <project name="azrim/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="10.0" />
   <project name="trinket-devs/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="10.0" />
-  <project name="trinket-devs/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="10.0" />
+  <project name="trinket-devs/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="Q" />
   <project name="trinket-devs/vendor_ANXCamera" path="vendor/ANXCamera" remote="github" revision="master" />
 </manifest>
