@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="azrim/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="havoc" />
-  <project name="azrim/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="havoc" />
-  <project name="azrim/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="havoc" />
-  <project name="trinket-devs/vendor_ANXCamera" path="vendor/ANXCamera" remote="github" revision="master" />
+  <project name="azrim/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="hvoc-new" />
+  <project name="azrim/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="havoc-new" />
+  <project name="azrim/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="test" />
   <project name="kdrag0n/proton-clang" path="prebuilts/clang/host/linux-x86/clang-11.0" remote="github" revision="master" clone-depth="1"/>
 </manifest>
