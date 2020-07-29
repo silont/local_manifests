@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="azrim/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="10.0" />
+  <project name="azrim/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="p404" />
   <project name="azrim/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="10.0" />
-  <project name="android_kernel_xiaomi_sm6125" path="kernel/xiaomi/ginkgo" remote="github" revision="Lineage-17.1" />
+  <project name="android_kernel_xiaomi_sm6125" path="kernel/xiaomi/ginkgo" remote="github" revision="lineage-17.1" />
   <project name="trinket-devs/vendor_miuicamera" path="vendor/miuicamera" remote="github" revision="10.0" />
 </manifest>
