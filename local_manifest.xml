@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="trinket-devs/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="10.0" />
-  <project name="trinket-devs/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="10.0" />
-  <project name="azrim/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="Q" />
-  <project name="trinket-devs/vendor_ANXCamera" path="vendor/ANXCamera" remote="github" revision="master" />
-  <project name="kdrag0n/proton-clang" path="prebuilts/clang/host/linux-x86/clang-11.0" remote="github" revision="master" clone-depth="1"/>
+  <project name="silont-project/device_xiaomi_sm6125-common" path="device/xiaomi/sm6125-common" remote="github" revision="10.0" />
+  <project name="silont-project/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="10.0" />
+  <project name="silont-project/kernel_xiaomi_ginkgo" path="kernel/xiaomi/sm6125" remote="github" revision="new" />
+  <project name="silont-project/vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="10.0" />
+  <project name="trinket-devs/vendor_miuicamera" path="vendor/miuicamera" remote="github" revision="10.0" />
+  <project name="silont-project/silont-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="github" revision="master" clone-depth="1"/>
 </manifest>
