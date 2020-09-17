@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="silont-project/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="floko" />
+  <project name="silont-project/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="posp" />
   <project name="trinket-devs/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="10.0" />
   <project name="silont-project/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="new" />
   <project name="trinket-devs/vendor_miuicamera" path="vendor/miuicamera" remote="github" revision="10.0" />
