@@ -3,8 +3,8 @@
   <project name="aosp-ginkgo/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="11.0" />
   <project name="aosp-ginkgo/device_xiaomi_trinket-common" path="device/xiaomi/trinket-common" remote="github" revision="11.0" />
   <project name="silont-project/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="new" />
-  <project name="aosp-ginkgo/vendor_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="11.0" />
-  <project name="aosp-ginkgo/vendor_xiaomi_trinket-common" path="device/xiaomi/trinket-common" remote="github" revision="11.0" />
+  <project name="aosp-ginkgo/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="11.0" />
+  <project name="aosp-ginkgo/vendor_xiaomi_trinket-common" path="vendor/xiaomi/trinket-common" remote="github" revision="11.0" />
   <project name="trinket-devs/vendor_miuicamera" path="vendor/miuicamera" remote="github" revision="10.0" />
   <!--project name="silont-project/silont-clang" path="prebuilts/clang/host/linux-x86/clang-silont" remote="github" revision="master" clone-depth="1"/-->
 </manifest>
