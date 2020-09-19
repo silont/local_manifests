@@ -36,5 +36,5 @@
   <project name="platform_vendor_overlay" path="vendor/overlay" remote="kenny3fcb" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="kenny3fcb" revision="eleven-legacy-um" />
   <!--project path="hardware/qcom-caf/wlan" name="hardware_qcom_wlan" remote="kenny3fcb" revision="eleven-caf" /-->
-  <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="kenny3fcb" />
+  <!--project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="kenny3fcb" /-->
 </manifest>
