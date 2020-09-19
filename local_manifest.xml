@@ -31,7 +31,6 @@
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="aosip" revision="ten" />
   <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="aosip" revision="ten" />
   <project name="platform/vendor/qcom-opensource/audio" path="vendor/qcom/opensource/audio" remote="caf" revision="av-aosp-qc.lnx.11.0.r4-rel" />
-  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" groups="pdk-fs" remote="aosp" />
 
   <!-- My forks -->
   <project name="platform_vendor_overlay" path="vendor/overlay" remote="kenny3fcb" />
