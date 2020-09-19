@@ -22,7 +22,7 @@
   <project name="vendor_gms" path="vendor/gms" remote="kenny3fcbgitlab" />
 
   <!-- Removing projects which I need to edit -->
-  <remove-project name="platform_vendor_overlay" />
+  <!-- remove-project name="platform_vendor_overlay" /-->
 
   <!-- Tracking some required repos -->
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="aosip" revision="ten" />
