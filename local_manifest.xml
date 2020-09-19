@@ -10,6 +10,9 @@
 
   <remote  name="caf"
            fetch="https://source.codeaurora.org/quic/la/" />
+  
+  <remote  name="aosip"
+           fetch="https://github.com/AOSiP" />
 
   <!-- Device-specific repos -->
   <project name="aosp-ginkgo/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="11.0" />
