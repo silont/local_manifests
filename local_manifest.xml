@@ -10,6 +10,6 @@
   <project path="vendor/qcom/opensource/interfaces" name="Project-Awaken/android_vendor_qcom_opensource_interfaces" remote="github" revision="11" /-->
     
   <!-- Device -->
-  <project name="silont-project/device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="R" />
+  <project name="silont-project/device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="11" />
   <project name="mahajant99/vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="eleven" />
 </manifest>
