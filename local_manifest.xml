@@ -12,6 +12,6 @@
 
   <!-- Device -->
   <project name="silont-project/device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="11" />
-  <project name="wight554/kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="master" />
+  <project name="silont-project/kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="rom" />
   <project name="PixysOS-Devices/vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="eleven" />
 </manifest>
