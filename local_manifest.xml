@@ -14,9 +14,9 @@
   <project name="silont-project/device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="11" />
   <project name="silont-project/kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="kek" clone-depth="1"/>
   <project name="Wave-Project/vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="r" />
-  <!-- beryllium -->
+  <!-- beryllium
   <project name="AOSiP-Devices/device_xiaomi_beryllium" path="device/xiaomi/beryllium" remote="github" revision="eleven" />
   <project name="AOSiP-Devices/device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github" revision="eleven" />
   <project name="AOSiP-Devices/kernel_xiaomi_sdm845" path="kernel/xiaomi/sdm845" remote="github" revision="eleven" />
-  <project name="AOSiP-Devices/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="eleven" />
+  <project name="AOSiP-Devices/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="eleven" /> -->
 </manifest>
